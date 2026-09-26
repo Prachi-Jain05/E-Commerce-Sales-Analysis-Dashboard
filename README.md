@@ -5,6 +5,9 @@ Power BI dashboard analyzing 9,994 retail transactions to uncover sales trends, 
 📊 **Dashboard Screenshot:**
 ![Sales Dashboard](DASHBOARD.png)
 
+📊 **Business Insights & Recommendations:**
+![Business Insights & Recommendations](business%20insights%20%26%20recommendations.png)
+
 ## 📊 Key Metrics
 - Total Sales: $2.30M
 - Total Orders: 9,994
@@ -19,10 +22,21 @@ Power BI dashboard analyzing 9,994 retail transactions to uncover sales trends, 
 - Interactive Slicers
 
 ## 📊 Key Insights
-- West region generated the highest sales
-- Consumer segment contributed the largest share of revenue
-- Technology category showed strong performance
-- South region recorded the lowest sales performance despite [Add: any reason you noticed, e.g. fewer orders or lower average order value — optional]
+- West region generated the highest sales revenue
+- South region showed the weakest sales performance
+- Technology category contributed the highest revenue and profit
+- Consumer segment was the largest contributor to overall sales
+- Phones and Chairs were among the top-performing product groups
+
+## 💡 Business Recommendations
+- Replicate successful sales strategies from the West region in the South region
+- Increase marketing investment in low-performing regions
+- Expand focus on Technology products due to strong profitability
+- Strengthen customer engagement within the Consumer segment
+- Monitor underperforming product categories and optimize inventory
+
+## 📝 Executive Summary
+The business generated $2.30M in sales and $286K in profit across 9,994 orders. Sales performance was strongest in the West region, while the Consumer segment and Technology category emerged as key growth drivers. Strategic focus on underperforming regions and high-margin product categories can further improve profitability.
 
 ## 🛠️ Tech Stack
 Excel · Power BI
@@ -30,7 +44,7 @@ Excel · Power BI
 ## ⚙️ How to View
 1. Download the `.pbix` file from this repo
 2. Open in Power BI Desktop
-*(GitHub can't render `.pbix` directly — screenshot above shows the live dashboard)*
+*(GitHub can't render `.pbix` directly — screenshots above show the live dashboard)*
 
 ## 👩‍💻 Built By
 **Prachi Jain** — Data Analyst
