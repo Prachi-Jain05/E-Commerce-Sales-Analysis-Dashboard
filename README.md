@@ -3,7 +3,7 @@
 Power BI dashboard analyzing 9,994 retail transactions to uncover sales trends, regional performance, customer segments, and profitability drivers.
 
 📊 **Dashboard Screenshot:**
-![Sales Dashboard](add-your-screenshot-path-here.png)
+![Sales Dashboard](DASHBOARD.png)
 
 ## 📊 Key Metrics
 - Total Sales: $2.30M
